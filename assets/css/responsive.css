@@ -1,0 +1,60 @@
+@media (max-width:575.98px) {
+    .welcome_con_main p {
+        text-align: center;
+    }
+    .welcome_icon ul {
+        justify-content: center;
+    }
+    .tac_xsm {
+        text-align: center;
+    }
+    .jcc_xsm {
+        display: flex;
+        justify-content: center;
+    }
+
+    .mt_xsm_3 {
+        margin-top: 36px;
+    }
+}
+@media (max-width:767.98px) {
+    .slide_con_main .slider_con {
+        text-align: center !important;
+    }
+    .mt_sm_3 {
+        margin-top: 24px;
+    }
+    .team_img_overlay ul li {
+        height: 45px;
+        width: 45px;
+        margin: 10px 0;
+    }
+}
+@media (max-width:1199.98px) {
+    .about_con p:nth-child(1) {
+        padding-top: 10px !important;
+    }
+}
+@media (max-width:991.98px) {
+    .about_con p:nth-child(2) {
+       display: none !important;
+    }
+    .about_con p:nth-child(1) {
+        padding-top: 30px !important;
+    }
+
+    .mt_md_3 {
+        margin-top: 36px;
+    }
+
+    .team_img_overlay ul li {
+        height: 38px;
+        width: 38px;
+        margin: 5px 0;
+    }
+}
+@media (max-width:767.98px) {
+    .about_con p:nth-child(2) {
+       display: block !important;
+    }
+}
